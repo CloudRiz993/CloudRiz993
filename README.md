@@ -17,12 +17,12 @@ I’m publishing hands-on Azure projects with recruiter-friendly artifacts:
 ## Portfolio projects
 | Project | Focus | Status | Repo |
 |---|---|---:|---|
-| Azure Identity & RBAC Baseline | Entra ID groups, scoped RBAC, least privilege | In Progress | azure-rbac-baseline |
-| Secure VNet + NSG Lab | VNets/subnets, NSGs, connectivity validation | In Progress | azure-vnet-nsg-lab |
-| Monitoring + Alerts (Log Analytics + KQL) | Azure Monitor, diagnostics, alerts, KQL basics | In Progress | azure-monitoring-alerts-kql |
+| Azure Identity & RBAC Baseline | Entra ID groups, scoped RBAC, least privilege | Complete | azure-rbac-baseline |
+| Secure VNet + NSG Lab | VNets/subnets, NSGs, connectivity validation | Complete | azure-vnet-nsg-lab |
+| Monitoring + Alerts (Log Analytics + KQL) | Azure Monitor, diagnostics, alerts, KQL basics | Complete | azure-monitoring-alerts-kql |
 
 ## AZ-104 aligned skills
 Entra ID (Azure AD) • RBAC • VNets/NSGs • Storage • Azure Monitor • Log Analytics • Backup • Governance basics • Troubleshooting
 
 ---
-⭐ Next: I’m publishing the first project repo with diagram + runbook + teardown notes.
+⭐ Next: Security-focused labs (Key Vault / Policy / Defender)
