@@ -2,7 +2,7 @@
 
 Microsoft Certified: Azure Administrator Associate (AZ-104) with 15+ years in IT Support/Operations (M365, SCCM). Building recruiter-friendly Azure labs with clear deployment steps, validation proofs, troubleshooting runbooks, and teardown notes.
 
-**Location:** Dubai (GCC) | Remote  
+**Location:** Dubai (GCC)  
 **LinkedIn:** https://www.linkedin.com/in/rizulhaq  
 **Email:** rizwanulhaq80@hotmail.com  
 
