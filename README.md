@@ -1,4 +1,4 @@
-# Rizwan Ul Haq — AZ-104 Certified | Azure Operations (In Progress)
+# Rizwan Ul Haq — AZ-104 Certified | Azure Operations 
 
 Microsoft Certified: **Azure Administrator Associate (AZ-104)** with 15+ years in IT Support/Operations (M365, SCCM), transitioning into **Cloud Support Engineer (Azure) / Junior Azure Administrator / Azure Cloud Engineer** roles.
 
