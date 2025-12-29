@@ -1,28 +1,21 @@
-# Rizwan Ul Haq — AZ-104 Certified | Azure Operations 
+# Rizwan Ul Haq — AZ-104 Certified | Azure Administrator / Cloud Operations
 
-Microsoft Certified: **Azure Administrator Associate (AZ-104)** with 15+ years in IT Support/Operations (M365, SCCM), transitioning into **Cloud Support Engineer (Azure) / Junior Azure Administrator / Azure Cloud Engineer** roles.
+Microsoft Certified: Azure Administrator Associate (AZ-104) with 15+ years in IT Support/Operations (M365, SCCM). Building recruiter-friendly Azure labs with clear deployment steps, validation proofs, troubleshooting runbooks, and teardown notes.
 
-**Location:** Dubai | GCC | Remote  
+**Location:** Dubai (GCC) | Remote  
 **LinkedIn:** https://www.linkedin.com/in/rizulhaq  
 **Email:** rizwanulhaq80@hotmail.com  
 
-## What I’m building (Portfolio)
-I’m publishing hands-on Azure projects with recruiter-friendly artifacts:
-- Architecture diagrams
-- Step-by-step deployment notes
-- Validation checks
-- Troubleshooting runbooks
-- Teardown / cost-control steps
+## Portfolio projects (Portal-only, AZ-104 aligned)
 
-## Portfolio projects
-| Project | Focus | Status | Repo |
-|---|---|---:|---|
-| Azure Identity & RBAC Baseline | Entra ID groups, scoped RBAC, least privilege | Complete | azure-rbac-baseline |
-| Secure VNet + NSG Lab | VNets/subnets, NSGs, connectivity validation | Complete | azure-vnet-nsg-lab |
-| Monitoring + Alerts (Log Analytics + KQL) | Azure Monitor, diagnostics, alerts, KQL basics | Complete | azure-monitoring-alerts-kql |
+| Project | Focus | Proof artifacts | Status | Repo |
+|---|---|---|---|---|
+| Azure RBAC Baseline | Entra groups + RG-scoped least privilege | Diagrams, deployment, validation screenshots, runbook, teardown | Complete | https://github.com/CloudRiz993/azure-rbac-baseline |
+| Secure VNet + NSG Lab | Subnet NSGs + Network Watcher validation | Diagrams, deployment, validation screenshots, runbook, teardown | Complete | https://github.com/CloudRiz993/azure-vnet-nsg-lab |
+| Monitoring + Alerts (KQL) | Azure Monitor + Log Analytics + alerting | Diagrams, KQL, alert validation, runbook, teardown | Complete | https://github.com/CloudRiz993/azure-monitoring-alerts-kql |
 
-## AZ-104 aligned skills
-Entra ID (Azure AD) • RBAC • VNets/NSGs • Storage • Azure Monitor • Log Analytics • Backup • Governance basics • Troubleshooting
+## Skills demonstrated
+Entra ID • RBAC • VNets/NSGs • Network Watcher • Azure Monitor • Log Analytics • KQL • Troubleshooting • Cost control (teardown)
 
 ---
-⭐ Next: Security-focused labs (Key Vault / Policy / Defender)
+**Next build:** Security-focused labs (Key Vault + Managed Identity, Azure Policy baseline, Sentinel/Defender foundations).
