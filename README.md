@@ -4,7 +4,7 @@ Microsoft Certified: Azure Administrator Associate (AZ-104) with 15+ years in IT
 
 **Location:** Dubai (GCC)  
 **LinkedIn:** https://www.linkedin.com/in/rizulhaq  
-**Email:** rizwanulhaq80 [at] hotmail [dot] com  
+**Email:** rizwanulhaq80@hotmail.com
 
 ## Portfolio projects (Portal-only, AZ-104 aligned)
 
