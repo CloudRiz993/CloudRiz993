@@ -1,21 +1,43 @@
 # Rizwan Ul Haq — AZ-104 Certified | Azure Administrator | Cloud Operations
 
-Microsoft Certified: Azure Administrator Associate (AZ-104) with 15+ years in IT Support/Operations (M365, SCCM). Building Azure labs with clear deployment steps, validation proofs, troubleshooting runbooks, and teardown notes.
+Microsoft Certified: Azure Administrator Associate (AZ-104) with 15+ years in IT Support/Operations (M365, SCCM). I build **portal-only Azure labs** with **deployment steps, validation evidence, troubleshooting runbooks, and teardown notes**—so recruiters and hiring managers can quickly verify hands-on capability.
 
+**Target roles:** Azure Administrator • Cloud Operations • Junior Cloud Engineer  
 **Location:** Dubai (GCC)  
 **LinkedIn:** https://www.linkedin.com/in/rizulhaq  
-**Email:** rizwanulhaq80@hotmail.com
+**Email:** rizwanulhaq80@hotmail.com  
+
+---
 
 ## Portfolio projects (Portal-only, AZ-104 aligned)
 
-| Project | Focus | Proof artifacts | Status | Repo |
+### Quick links (proof-first)
+- **Azure RBAC Baseline:** Repo • Deployment • Validation • Runbook • Teardown  
+- **Secure VNet + NSG Lab:** Repo • Deployment • Validation • Runbook • Teardown  
+- **Monitoring + Alerts (KQL):** Repo • Deployment • Validation • Runbook • Teardown  
+
+> Tip: Replace the “Deployment / Validation / Runbook / Teardown” items above with direct links to the exact files in each repo (e.g., `docs/deployment.md`, `docs/validation.md`, `runbooks/troubleshooting.md`, `teardown/teardown.md`).
+
+| Project | Focus | Evidence included | Status | Repo |
 |---|---|---|---|---|
-| Azure RBAC Baseline | Entra groups + RG-scoped least privilege | Diagrams, deployment, validation screenshots, runbook, teardown | Complete | https://github.com/CloudRiz993/azure-rbac-baseline |
-| Secure VNet + NSG Lab | Subnet NSGs + Network Watcher validation | Diagrams, deployment, validation screenshots, runbook, teardown | Complete | https://github.com/CloudRiz993/azure-vnet-nsg-lab |
-| Monitoring + Alerts (KQL) | Azure Monitor + Log Analytics + alerting | Diagrams, KQL, alert validation, runbook, teardown | Complete | https://github.com/CloudRiz993/azure-monitoring-alerts-kql |
+| **Azure RBAC Baseline** | Entra groups + RG-scoped least privilege | Architecture diagram, deployment steps, validation screenshots, runbook, teardown | ✅ Complete | https://github.com/CloudRiz993/azure-rbac-baseline |
+| **Secure VNet + NSG Lab** | Subnet NSGs + Network Watcher validation | Architecture diagram, deployment steps, validation screenshots, runbook, teardown | ✅ Complete | https://github.com/CloudRiz993/azure-vnet-nsg-lab |
+| **Monitoring + Alerts (KQL)** | Azure Monitor + Log Analytics + alerting | Architecture diagram, KQL queries, alert validation, runbook, teardown | ✅ Complete | https://github.com/CloudRiz993/azure-monitoring-alerts-kql |
+
+---
 
 ## Skills demonstrated
 Entra ID • RBAC • VNets/NSGs • Network Watcher • Azure Monitor • Log Analytics • KQL • Troubleshooting • Cost control (teardown)
 
+## How to review my work (fast)
+1. Open any repo above.
+2. Start with **docs/deployment.md** → **docs/validation.md** (evidence).
+3. Review **runbooks/troubleshooting.md** (ops mindset).
+4. Confirm cleanup in **teardown/teardown.md** (cost control).
+
 ---
-**Next build:** Security-focused labs (Key Vault + Managed Identity, Azure Policy baseline, Sentinel/Defender foundations).
+
+### Next build (security-focused)
+- Key Vault + Managed Identity (secrets access patterns)
+- Azure Policy baseline (guardrails)
+- Microsoft Sentinel / Defender foundations (SOC-ready telemetry)
