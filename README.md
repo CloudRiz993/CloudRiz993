@@ -31,9 +31,9 @@ Entra ID • RBAC • VNets/NSGs • Network Watcher • Azure Monitor • Log A
 
 ## How to review my work (fast)
 1. Open any repo above.
-2. Start with **docs/deployment.md** → **docs/validation.md** (evidence).
-3. Review **runbooks/troubleshooting.md** (ops mindset).
-4. Confirm cleanup in **teardown/teardown.md** (cost control).
+2. Start with **docs/deployment.md** → **docs/validation.md**.
+3. Review **runbooks/troubleshooting.md**.
+4. Confirm cleanup in **teardown/teardown.md**.
 
 ---
 
