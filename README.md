@@ -35,9 +35,10 @@ Entra ID • RBAC • VNets/NSGs • Network Watcher • Azure Monitor • Log A
 
 ## How to review my work (fast)
 1. Use the **Quick links** above.
-2. Start with **D (Deployment)** → **V (Validation)** for proof.
-3. Review **R (Runbook)** to see troubleshooting approach.
-4. Confirm cleanup in **T (Teardown)** for cost control.
+2. Start with **Deployment** → **Validation** for proof.
+3. Review **Runbook** to see troubleshooting approach.
+4. Confirm cleanup in **Teardown** for cost control.
+
 
 ---
 
