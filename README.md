@@ -24,9 +24,10 @@ Microsoft Certified: Azure Administrator Associate (AZ-104) with 15+ years in IT
 
 | Project | Focus | Evidence included | Status | Repo |
 |---|---|---|---|---|
-| **Azure RBAC Baseline** | Entra groups + RG-scoped least privilege | Architecture diagram, deployment steps, validation screenshots, runbook, teardown | ✅ Complete | https://github.com/CloudRiz993/azure-rbac-baseline |
-| **Secure VNet + NSG Lab** | Subnet NSGs + Network Watcher validation | Architecture diagram, deployment steps, validation screenshots, runbook, teardown | ✅ Complete | https://github.com/CloudRiz993/azure-vnet-nsg-lab |
-| **Monitoring + Alerts (KQL)** | Azure Monitor + Log Analytics + alerting | Architecture diagram, KQL queries, alert validation, runbook, teardown | ✅ Complete | https://github.com/CloudRiz993/azure-monitoring-alerts-kql |
+| **Azure RBAC Baseline** | Entra groups + RG-scoped least privilege | Architecture diagram, deployment steps, validation screenshots, runbook, teardown | ✅ Complete | [Azure RBAC Baseline](https://github.com/CloudRiz993/azure-rbac-baseline) |
+| **Secure VNet + NSG Lab** | Subnet NSGs + Network Watcher validation | Architecture diagram, deployment steps, validation screenshots, runbook, teardown | ✅ Complete | [Secure VNet + NSG Lab](https://github.com/CloudRiz993/azure-vnet-nsg-lab) |
+| **Monitoring + Alerts (KQL)** | Azure Monitor + Log Analytics + alerting | Architecture diagram, KQL queries, alert validation, runbook, teardown | ✅ Complete | [Monitoring + Alerts (KQL)](https://github.com/CloudRiz993/azure-monitoring-alerts-kql) |
+
 
 ---
 
