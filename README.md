@@ -5,7 +5,9 @@ Microsoft Certified: Azure Administrator Associate (AZ-104) with 15+ years in IT
 **Target roles:** Azure Administrator • Cloud Operations • Azure Support Engineer (Cloud)
 
 **Location:** Dubai (UAE) 
+
 **LinkedIn:** https://www.linkedin.com/in/rizulhaq  
+
 **Email:** rizwanulhaq80@hotmail.com  
 
 ---
