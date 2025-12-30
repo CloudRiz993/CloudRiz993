@@ -13,11 +13,12 @@ Microsoft Certified: Azure Administrator Associate (AZ-104) with 15+ years in IT
 ## Portfolio projects (Portal-only, AZ-104 aligned)
 
 ### Quick links (proof-first)
-- **Azure RBAC Baseline:** [Repo](https://github.com/CloudRiz993/azure-rbac-baseline) | [D](https://github.com/CloudRiz993/azure-rbac-baseline/blob/main/docs/deployment.md) [V](https://github.com/CloudRiz993/azure-rbac-baseline/blob/main/docs/validation.md) [R](https://github.com/CloudRiz993/azure-rbac-baseline/blob/main/runbooks/troubleshooting.md) [T](https://github.com/CloudRiz993/azure-rbac-baseline/blob/main/teardown/teardown.md)  
-- **Secure VNet + NSG Lab:** [Repo](https://github.com/CloudRiz993/azure-vnet-nsg-lab) | [D](https://github.com/CloudRiz993/azure-vnet-nsg-lab/blob/main/docs/deployment.md) [V](https://github.com/CloudRiz993/azure-vnet-nsg-lab/blob/main/docs/validation.md) [R](https://github.com/CloudRiz993/azure-vnet-nsg-lab/blob/main/runbooks/troubleshooting.md) [T](https://github.com/CloudRiz993/azure-vnet-nsg-lab/blob/main/teardown/teardown.md)  
-- **Monitoring + Alerts (KQL):** [Repo](https://github.com/CloudRiz993/azure-monitoring-alerts-kql) | [D](https://github.com/CloudRiz993/azure-monitoring-alerts-kql/blob/main/docs/deployment.md) [V](https://github.com/CloudRiz993/azure-monitoring-alerts-kql/blob/main/docs/validation.md) [R](https://github.com/CloudRiz993/azure-monitoring-alerts-kql/blob/main/runbooks/troubleshooting.md) [T](https://github.com/CloudRiz993/azure-monitoring-alerts-kql/blob/main/teardown/teardown.md)  
+- **Azure RBAC Baseline:** [Repo](https://github.com/CloudRiz993/azure-rbac-baseline) • [Deployment](https://github.com/CloudRiz993/azure-rbac-baseline/blob/main/docs/deployment.md) • [Validation](https://github.com/CloudRiz993/azure-rbac-baseline/blob/main/docs/validation.md) • [Runbook](https://github.com/CloudRiz993/azure-rbac-baseline/blob/main/runbooks/troubleshooting.md) • [Teardown](https://github.com/CloudRiz993/azure-rbac-baseline/blob/main/teardown/teardown.md)
 
-> **Legend:** D = Deployment, V = Validation, R = Runbook, T = Teardown
+- **Monitoring + Alerts (KQL):** [Repo](https://github.com/CloudRiz993/azure-monitoring-alerts-kql) • [Deployment](https://github.com/CloudRiz993/azure-monitoring-alerts-kql/blob/main/docs/deployment.md) • [Validation](https://github.com/CloudRiz993/azure-monitoring-alerts-kql/blob/main/docs/validation.md) • [Runbook](https://github.com/CloudRiz993/azure-monitoring-alerts-kql/blob/main/runbooks/troubleshooting.md) • [Teardown](https://github.com/CloudRiz993/azure-monitoring-alerts-kql/blob/main/teardown/teardown.md)
+
+- **Secure VNet + NSG Lab:** [Repo](https://github.com/CloudRiz993/azure-vnet-nsg-lab) • [Deployment](https://github.com/CloudRiz993/azure-vnet-nsg-lab/blob/main/docs/deployment.md) • [Validation](https://github.com/CloudRiz993/azure-vnet-nsg-lab/blob/main/docs/validation.md) • [Runbook](https://github.com/CloudRiz993/azure-vnet-nsg-lab/blob/main/runbooks/troubleshooting.md) • [Teardown](https://github.com/CloudRiz993/azure-vnet-nsg-lab/blob/main/teardown/teardown.md)
+
 
 | Project | Focus | Evidence included | Status | Repo |
 |---|---|---|---|---|
