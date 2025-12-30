@@ -1,8 +1,8 @@
 # Rizwan Ul Haq — AZ-104 Certified | Azure Administrator | Cloud Operations
 
-Microsoft Certified: Azure Administrator Associate (AZ-104) with 15+ years in IT Support/Operations. I have build **portal-only Azure labs** with **deployment steps, validation evidence, troubleshooting runbooks, and teardown notes**—so it can quickly verify hands-on capability.
+Microsoft Certified: Azure Administrator Associate (AZ-104) with 15+ years in IT Support/Operations. I build **portal-only Azure labs** with **deployment steps, validation evidence, troubleshooting runbooks, and teardown notes**—so reviewers can quickly verify hands-on capability.
 
-**Target roles:** Azure Administrator • Cloud Operations • Cloud Engineer • Cloud Operation Engineer
+**Target roles:** Azure Administrator • Cloud Operations • Azure Support Engineer (Cloud)
 
 **Location:** Dubai (GCC)  
 **LinkedIn:** https://www.linkedin.com/in/rizulhaq  
@@ -14,13 +14,13 @@ Microsoft Certified: Azure Administrator Associate (AZ-104) with 15+ years in IT
 
 ### Quick links (proof-first)
 
-- **Azure RBAC Baseline:** [Repo](https://github.com/CloudRiz993/azure-rbac-baseline) • [Deployment](https://github.com/CloudRiz993/azure-rbac-baseline/blob/main/docs/deployment.md) • [Validation](https://github.com/CloudRiz993/azure-rbac-baseline/blob/main/docs/validation.md) • [Runbook](https://github.com/CloudRiz993/azure-rbac-baseline/blob/main/runbooks/troubleshooting.md) • [Teardown](https://github.com/CloudRiz993/azure-rbac-baseline/blob/main/teardown/teardown.md)  
-- **Secure VNet + NSG Lab:** [Repo](https://github.com/CloudRiz993/azure-vnet-nsg-lab) • [Deployment](https://github.com/CloudRiz993/azure-vnet-nsg-lab/blob/main/docs/deployment.md) • [Validation](https://github.com/CloudRiz993/azure-vnet-nsg-lab/blob/main/docs/validation.md) • [Runbook](https://github.com/CloudRiz993/azure-vnet-nsg-lab/blob/main/runbooks/troubleshooting.md) • [Teardown](https://github.com/CloudRiz993/azure-vnet-nsg-lab/blob/main/teardown/teardown.md)  
-- **Monitoring + Alerts (KQL):** [Repo](https://github.com/CloudRiz993/azure-monitoring-alerts-kql) • [Deployment](https://github.com/CloudRiz993/azure-monitoring-alerts-kql/blob/main/docs/deployment.md) • [Validation](https://github.com/CloudRiz993/azure-monitoring-alerts-kql/blob/main/docs/validation.md) • [Runbook](https://github.com/CloudRiz993/azure-monitoring-alerts-kql/blob/main/runbooks/troubleshooting.md) • [Teardown](https://github.com/CloudRiz993/azure-monitoring-alerts-kql/blob/main/teardown/teardown.md)  
+| Project | Repo | D | V | R | T |
+|---|---|---|---|---|---|
+| **Azure RBAC Baseline** | [Repo](https://github.com/CloudRiz993/azure-rbac-baseline) | [D](https://github.com/CloudRiz993/azure-rbac-baseline/blob/main/docs/deployment.md) | [V](https://github.com/CloudRiz993/azure-rbac-baseline/blob/main/docs/validation.md) | [R](https://github.com/CloudRiz993/azure-rbac-baseline/blob/main/runbooks/troubleshooting.md) | [T](https://github.com/CloudRiz993/azure-rbac-baseline/blob/main/teardown/teardown.md) |
+| **Secure VNet + NSG Lab** | [Repo](https://github.com/CloudRiz993/azure-vnet-nsg-lab) | [D](https://github.com/CloudRiz993/azure-vnet-nsg-lab/blob/main/docs/deployment.md) | [V](https://github.com/CloudRiz993/azure-vnet-nsg-lab/blob/main/docs/validation.md) | [R](https://github.com/CloudRiz993/azure-vnet-nsg-lab/blob/main/runbooks/troubleshooting.md) | [T](https://github.com/CloudRiz993/azure-vnet-nsg-lab/blob/main/teardown/teardown.md) |
+| **Monitoring + Alerts (KQL)** | [Repo](https://github.com/CloudRiz993/azure-monitoring-alerts-kql) | [D](https://github.com/CloudRiz993/azure-monitoring-alerts-kql/blob/main/docs/deployment.md) | [V](https://github.com/CloudRiz993/azure-monitoring-alerts-kql/blob/main/docs/validation.md) | [R](https://github.com/CloudRiz993/azure-monitoring-alerts-kql/blob/main/runbooks/troubleshooting.md) | [T](https://github.com/CloudRiz993/azure-monitoring-alerts-kql/blob/main/teardown/teardown.md) |
 
-
-  
-
+> **Legend:** D = Deployment, V = Validation, R = Runbook, T = Teardown
 
 | Project | Focus | Evidence included | Status | Repo |
 |---|---|---|---|---|
@@ -28,17 +28,16 @@ Microsoft Certified: Azure Administrator Associate (AZ-104) with 15+ years in IT
 | **Secure VNet + NSG Lab** | Subnet NSGs + Network Watcher validation | Architecture diagram, deployment steps, validation screenshots, runbook, teardown | ✅ Complete | [Secure VNet + NSG Lab](https://github.com/CloudRiz993/azure-vnet-nsg-lab) |
 | **Monitoring + Alerts (KQL)** | Azure Monitor + Log Analytics + alerting | Architecture diagram, KQL queries, alert validation, runbook, teardown | ✅ Complete | [Monitoring + Alerts (KQL)](https://github.com/CloudRiz993/azure-monitoring-alerts-kql) |
 
-
 ---
 
 ## Skills demonstrated
 Entra ID • RBAC • VNets/NSGs • Network Watcher • Azure Monitor • Log Analytics • KQL • Troubleshooting • Cost control (teardown)
 
 ## How to review my work (fast)
-1. Open any repo above.
-2. Start with **docs/deployment.md** → **docs/validation.md**.
-3. Review **runbooks/troubleshooting.md**.
-4. Confirm cleanup in **teardown/teardown.md**.
+1. Use the **Quick links** table above.
+2. Start with **D (Deployment)** → **V (Validation)** for proof.
+3. Review **R (Runbook)** to see troubleshooting approach.
+4. Confirm cleanup in **T (Teardown)** for cost control.
 
 ---
 
