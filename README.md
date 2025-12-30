@@ -1,6 +1,6 @@
 # Rizwan Ul Haq — AZ-104 Certified | Azure Administrator | Cloud Operations
 
-Microsoft Certified: Azure Administrator Associate (AZ-104) with 15+ years in IT Support/Operations (M365, SCCM). I build **portal-only Azure labs** with **deployment steps, validation evidence, troubleshooting runbooks, and teardown notes**—so recruiters and hiring managers can quickly verify hands-on capability.
+Microsoft Certified: Azure Administrator Associate (AZ-104) with 15+ years in IT Support/Operations. I have build **portal-only Azure labs** with **deployment steps, validation evidence, troubleshooting runbooks, and teardown notes**—so it can quickly verify hands-on capability.
 
 **Target roles:** Azure Administrator • Cloud Operations • Junior Cloud Engineer  
 **Location:** Dubai (GCC)  
