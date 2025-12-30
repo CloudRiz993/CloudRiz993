@@ -43,6 +43,6 @@ Entra ID • RBAC • VNets/NSGs • Network Watcher • Azure Monitor • Log A
 ---
 
 ### Next build (security-focused)
-- Key Vault + Managed Identity (secrets access patterns)
+- Key Vault + Managed Identity
 - Azure Policy baseline (guardrails)
-- Microsoft Sentinel / Defender foundations (SOC-ready telemetry)
+- Microsoft Sentinel / Defender foundations
