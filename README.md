@@ -2,7 +2,7 @@
 
 Microsoft Certified: Azure Administrator Associate (AZ-104) with 15+ years in IT Support/Operations. I have build **portal-only Azure labs** with **deployment steps, validation evidence, troubleshooting runbooks, and teardown notes**—so it can quickly verify hands-on capability.
 
-**Target roles:** Azure Administrator • Cloud Operations • Junior Cloud Engineer  
+**Target roles:** Azure Administrator • Cloud Operations • Cloud Engineer • Cloud Operation Engineer
 **Location:** Dubai (GCC)  
 **LinkedIn:** https://www.linkedin.com/in/rizulhaq  
 **Email:** rizwanulhaq80@hotmail.com  
