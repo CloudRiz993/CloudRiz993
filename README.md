@@ -16,7 +16,6 @@ Microsoft Certified: Azure Administrator Associate (AZ-104) with 15+ years in IT
 - **Secure VNet + NSG Lab:** Repo • Deployment • Validation • Runbook • Teardown  
 - **Monitoring + Alerts (KQL):** Repo • Deployment • Validation • Runbook • Teardown  
 
-> Tip: Replace the “Deployment / Validation / Runbook / Teardown” items above with direct links to the exact files in each repo (e.g., `docs/deployment.md`, `docs/validation.md`, `runbooks/troubleshooting.md`, `teardown/teardown.md`).
 
 | Project | Focus | Evidence included | Status | Repo |
 |---|---|---|---|---|
