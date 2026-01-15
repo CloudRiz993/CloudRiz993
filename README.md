@@ -37,6 +37,7 @@ Entra ID • RBAC • VNets/NSGs • Network Watcher • **Private Endpoint / Pr
 2. Start with **Deployment** → **Validation** for proof.
 3. Review **Runbook** to see troubleshooting approach.
 4. Confirm cleanup in **Teardown** for cost control.
+5. Security series index on LinkedIn (Series index here: https://www.linkedin.com/feed/update/urn:li:activity:7417434529755230208/)
 
 ---
 
